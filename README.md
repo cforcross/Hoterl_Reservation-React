@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Deployment
 This app has been deployed on Neflify below is the link
+👇🏿👇🏿👇🏿
 [hotel Reservation](https://chowahotelreservation.netlify.app/)
 
 
