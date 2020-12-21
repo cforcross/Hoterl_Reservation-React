@@ -1,6 +1,12 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Deployment
+This app has been deployed on Neflify below is the link
+[hotel Reservation](https://chowahotelreservation.netlify.app/)
+
 
 ## Available Scripts
 
